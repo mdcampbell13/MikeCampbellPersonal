@@ -3,7 +3,7 @@ body {
   height: 100%;
   margin: 0px;
   padding: 0px;
-  overflow-x: hidden; 
+  overflow-x: hidden;
   text-align: center;
   font-family: "Merriweather", serif;
 }
@@ -53,6 +53,7 @@ p {
 }
 
 .bottom-container {
+  font-size: 35px;
   background-color: #66bfbf;
   padding-top: 1.5rem;
   padding-bottom: 1.3rem;
@@ -67,6 +68,11 @@ p {
 .contact-me {
   width: 80%;
   margin: auto;
+}
+
+.copy-footer {
+  font-size: 15px;
+  color: #eaf6f6;
 }
 
 .footer-link {
@@ -113,6 +119,11 @@ p {
   color: #40514e;
   width: 80%;
   margin: auto;
+}
+
+.paragraphs2 {
+  font-size: 40px;
+  color: #11999e;
 }
 
 .skill-image {
